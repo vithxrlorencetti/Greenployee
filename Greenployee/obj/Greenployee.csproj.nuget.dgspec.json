@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\5Periodo\\Greenployee\\Greenployee\\Greenployee.csproj": {}
+    "D:\\Projetos\\5° Período\\Greenployee\\Greenployee\\Greenployee.csproj": {}
   },
   "projects": {
-    "D:\\5Periodo\\Greenployee\\Greenployee\\Greenployee.csproj": {
+    "D:\\Projetos\\5° Período\\Greenployee\\Greenployee\\Greenployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\5Periodo\\Greenployee\\Greenployee\\Greenployee.csproj",
+        "projectUniqueName": "D:\\Projetos\\5° Período\\Greenployee\\Greenployee\\Greenployee.csproj",
         "projectName": "Greenployee",
-        "projectPath": "D:\\5Periodo\\Greenployee\\Greenployee\\Greenployee.csproj",
-        "packagesPath": "C:\\Users\\koslo\\.nuget\\packages\\",
-        "outputPath": "D:\\5Periodo\\Greenployee\\Greenployee\\obj\\",
+        "projectPath": "D:\\Projetos\\5° Período\\Greenployee\\Greenployee\\Greenployee.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Projetos\\5° Período\\Greenployee\\Greenployee\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\koslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

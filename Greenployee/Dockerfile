@@ -1,16 +1,19 @@
-FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build-env
-WORKDIR /App
+FROM mcr.microsoft.com/dotnet/aspnet:6.0 AS base
+WORKDIR /Greenployee
 EXPOSE 80
 
-# Copy everything
-COPY . ./
-# Restore as distinct layers
-RUN dotnet restore
-# Build and publish a release
-RUN dotnet publish -c Release -o out
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
+WORKDIR /src
+COPY ["Greenployee.csproj", "."]
+RUN dotnet restore "./Greenployee.csproj"
+COPY . .
+WORKDIR "/src/."
+RUN dotnet build "Greenployee.csproj" -c Release -o /Greenployee/build
 
-# Build runtime image
-FROM mcr.microsoft.com/dotnet/aspnet:6.0
-WORKDIR /App
-COPY --from=build-env /App/out .
+FROM build AS publish
+RUN dotnet publish "Greenployee.csproj" -c Release -o /Greenployee/publish /p:UseAppHost=false
+
+FROM base AS final
+WORKDIR /Greenployee
+COPY --from=publish /Greenployee/publish .
 ENTRYPOINT ["dotnet", "Greenployee.dll"]
