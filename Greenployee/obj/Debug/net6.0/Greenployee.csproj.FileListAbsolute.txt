@@ -684,3 +684,8 @@ D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\appsetting
 D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\appsettings.json
 D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.deps.json
 D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.runtimeconfig.json
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\web.config
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\appsettings.Development.json
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\appsettings.json
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.deps.json
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.runtimeconfig.json
