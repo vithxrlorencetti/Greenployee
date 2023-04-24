@@ -23,7 +23,7 @@ namespace Greenployee.Controllers
 
         // GET: api/Pessoa
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Pessoa>>> GetPessoa()
+        public async Task<ActionResult<IEnumerable<Pessoa>>> GetPessoas()
         {
           if (_context.Pessoa == null)
           {
