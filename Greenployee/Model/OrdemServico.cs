@@ -19,11 +19,6 @@ namespace Greenployee.Model
         public bool flEntrega { get; set; }
         public DateTime dtOrdem { get; set; }
         public int idFuncionario { get; set; }
-
-        // Necessário criar um objeto do tipo da chave estrangeira
-        //public Pessoa? Funcionario { get; set; }
-
-
-
+        public Pessoa? Funcionario { get; set; }
     }
 }

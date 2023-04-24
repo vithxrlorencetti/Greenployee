@@ -14,5 +14,7 @@ namespace Greenployee.Data
 
         public DbSet<Greenployee.Model.Anotacao>? Anotacao { get; set; }
 
+        public DbSet<Greenployee.Model.Meta>? Meta { get; set; }
+
     }
 }

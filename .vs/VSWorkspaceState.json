@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Greenployee",
+    "\\GreenployeeClient\\src",
+    "\\Greenployee\\Model"
   ],
-  "SelectedNode": "\\GreenployeeApp.sln",
+  "SelectedNode": "\\Greenployee",
   "PreviewInSolutionExplorer": false
 }
