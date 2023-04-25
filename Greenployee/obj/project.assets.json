@@ -10880,11 +10880,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\maria\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\koslo\\.nuget\\packages\\": {}
+>>>>>>> 9dcb26e1348e334399cff55f67985761b4a7a899
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Projeto Integrador\\Greenployee\\Greenployee\\Greenployee.csproj",
       "projectName": "Greenployee",
       "projectPath": "D:\\Projeto Integrador\\Greenployee\\Greenployee\\Greenployee.csproj",
@@ -10893,6 +10898,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "D:\\5Periodo\\Greenployee\\Greenployee\\Greenployee.csproj",
+      "projectName": "Greenployee",
+      "projectPath": "D:\\5Periodo\\Greenployee\\Greenployee\\Greenployee.csproj",
+      "packagesPath": "C:\\Users\\koslo\\.nuget\\packages\\",
+      "outputPath": "D:\\5Periodo\\Greenployee\\Greenployee\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\koslo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 9dcb26e1348e334399cff55f67985761b4a7a899
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

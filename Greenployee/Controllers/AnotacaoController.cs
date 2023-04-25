@@ -23,7 +23,7 @@ namespace Greenployee.Controllers
 
         // GET: api/Anotacao
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Anotacao>>> GetAnotacao()
+        public async Task<ActionResult<IEnumerable<Anotacao>>> GetAnotacoes()
         {
           if (_context.Anotacao == null)
           {

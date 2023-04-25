@@ -684,6 +684,7 @@ D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\appsetting
 D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\appsettings.json
 D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.deps.json
 D:\Projetos\5° Período\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.runtimeconfig.json
+<<<<<<< HEAD
 D:\Projeto Integrador\Greenployee\Greenployee\obj\Debug\net6.0\Greenployee.csproj.AssemblyReference.cache
 D:\Projeto Integrador\Greenployee\Greenployee\obj\Debug\net6.0\Greenployee.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projeto Integrador\Greenployee\Greenployee\obj\Debug\net6.0\Greenployee.AssemblyInfoInputs.cache
@@ -985,3 +986,10 @@ D:\Projeto Integrador\Greenployee\Greenployee\obj\Debug\net6.0\Greenployee.genru
 D:\Projeto Integrador\Greenployee\Greenployee\obj\Debug\net6.0\ref\Greenployee.dll
 D:\Projeto Integrador\Greenployee\Greenployee\obj\Debug\net6.0\Greenployee.RazorAssemblyInfo.cache
 D:\Projeto Integrador\Greenployee\Greenployee\obj\Debug\net6.0\Greenployee.RazorAssemblyInfo.cs
+=======
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\web.config
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\appsettings.Development.json
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\appsettings.json
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.deps.json
+D:\5Periodo\Greenployee\Greenployee\bin\Debug\net6.0\out\Greenployee.runtimeconfig.json
+>>>>>>> 9dcb26e1348e334399cff55f67985761b4a7a899
